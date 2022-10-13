@@ -1,4 +1,4 @@
-PhoneBook={'KIM':'111-1111', 'LEE':'222-2222'}
+PhoneBook={'PARK':'333-3333', 'JUNG':'444-4444'}
 
 
 def isEmpty():
